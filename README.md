@@ -4,6 +4,8 @@
 
 <img width="310" height="163" alt="image" src="https://github.com/user-attachments/assets/63900b8c-7c7c-437b-9ad5-b277700c327b" />
 
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0caf543b-50e6-491e-a2a4-d0d8d1208389" />
+
 
 ## What's new in v1.0.0 (September 18, 2026)
 - Official Qwen3.8-Omni-Flash on Qianwen / Model Studio
